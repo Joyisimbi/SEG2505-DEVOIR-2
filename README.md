@@ -1,4 +1,4 @@
-#ASSIGNMENT OVERVIEW
+# ASSIGNMENT OVERVIEW
 
 This assignment relates to Chapter, "Designing Software with Reusable Technologies," and specifically focuses on the OCSF framework introduced in class. The goal is to extend the functionality of a simple chat application based on the provided code.
 
